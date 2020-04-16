@@ -18,6 +18,14 @@ body{
     text-align:center;
 }
 
+tr:hover{
+    background-color: aquamarine;
+}
+/* .table{
+    padding:2px;
+    /* margin:0px; */
+} */
+
 
 /* #info{
     width: 60%;
