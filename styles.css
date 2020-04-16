@@ -1,0 +1,20 @@
+body{
+    margin: 30px;
+    /* background-image: url('dog1.jpg'); */
+
+}
+
+h1{
+    margin-bottom: 30px;
+    text-align: center;    
+}
+
+.dog-img{
+    margin-top: 10px;
+    width:100%;
+}
+
+
+/* #info{
+    width: 60%;
+} */
